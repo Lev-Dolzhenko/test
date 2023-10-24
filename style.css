@@ -1,0 +1,15 @@
+body{
+    overflow: hidden
+  }
+
+  #movableDiv {
+    position: relative;
+  }
+  
+  #movableDiv .plan {
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: move;
+  }
+
