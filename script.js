@@ -1,5 +1,3 @@
-
-
 var movableDiv = document.getElementById("movableDiv");
 
       var isDragging = false;
